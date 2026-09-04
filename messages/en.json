@@ -1,0 +1,286 @@
+{
+  "nav": {
+    "about": "About Us",
+    "services": "Services",
+    "wellnessTourism": "Wellness Tourism",
+    "contact": "Contact",
+    "cta": "Get in Touch"
+  },
+  "footer": {
+    "description": "Wellness Destination Development & Advisory in Vietnam.",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact",
+    "followTitle": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Wellness Destination Development & Advisory",
+      "cta": "Talk to Our Team"
+    },
+    "story": {
+      "heading": "Our Story",
+      "body": "Vietnam Wellness Retreat began with a simple question: what makes a destination truly healing? We believe the answer lies not in amenities, but in how a space is conceived through vision, nurtured through strategy, and told through experience. We partner with investors and stakeholders to build sustainable Wellness destinations that create lasting value for people, communities and nature."
+    },
+    "pillars": {
+      "heading": "Three Pillars of Partnership",
+      "items": [
+        {
+          "title": "Retreat Design & Development",
+          "desc": "Shaping the concept, planning and design of a complete Wellness destination from day one.",
+          "image": "yoga-karst-mountains.jpg",
+          "link": "/services"
+        },
+        {
+          "title": "Wellness Program Development",
+          "desc": "Building holistic wellbeing programs that blend therapy, nutrition and mindful practice.",
+          "image": "massage-singing-bowls.jpg",
+          "link": "/services"
+        },
+        {
+          "title": "Hospitality & Business Consulting",
+          "desc": "Advising on operating models, business strategy and world-class hospitality experiences.",
+          "image": "coaching-session.jpg",
+          "link": "/services"
+        }
+      ],
+      "exploreLabel": "Explore"
+    },
+    "philosophy": {
+      "heading": "Our Wellness Philosophy",
+      "quoteEn": "Vision defines the destination. Strategy creates the legacy.",
+      "quoteVi": "Vision defines the destination. Strategy creates the legacy.",
+      "body": "We see Wellness not as a single item on a project checklist, but as a development strategy — where people, nature, culture and experience connect into one unified system of value. Before design, we talk about vision. Before operations, we talk about strategy. Before success, we talk about legacy.",
+      "pillarsHeading": "Six Advisory Pillars",
+      "pillars": [
+        {
+          "title": "Project Positioning",
+          "desc": "Defining the project's identity"
+        },
+        {
+          "title": "Wellness Concept Development",
+          "desc": "Developing the Wellness concept"
+        },
+        {
+          "title": "Experience Design",
+          "desc": "Designing guest experiences"
+        },
+        {
+          "title": "Business Model",
+          "desc": "Building the business model"
+        },
+        {
+          "title": "Hospitality Consulting",
+          "desc": "Advising on hospitality operations"
+        },
+        {
+          "title": "Development Strategy",
+          "desc": "Shaping long-term direction"
+        }
+      ]
+    },
+    "wellnessTourism": {
+      "heading": "Wellness Tourism — A Global Growth Trend",
+      "body": "Travel is changing. Today's travelers are looking for more than a place to rest — they want to return home as a healthier, more balanced version of themselves. That is why Wellness Tourism has become one of the fastest-growing segments in global travel.",
+      "pillars": [
+        "Pristine Nature",
+        "Yoga & Meditation",
+        "Healthcare & Therapy",
+        "Scientific Nutrition",
+        "Outdoor Activity",
+        "Mental Wellbeing"
+      ],
+      "readMore": "Learn More",
+      "link": "/wellness-tourism"
+    },
+    "founder": {
+      "heading": "Meet the Founder",
+      "quote": "Creating destinations that inspire people and create lasting value."
+    },
+    "ctaBand": {
+      "heading": "Let's Build Your Next Wellness Destination",
+      "body": "From the first idea to a fully realized destination — we're with you at every step.",
+      "cta": "Get in Touch"
+    },
+    "audience": {
+      "heading": "Partners We Work With",
+      "items": [
+        "Resort & Hotel Investors",
+        "Wellness Resorts",
+        "Boutique Resorts",
+        "Eco Resorts",
+        "Spa & Healing Centers",
+        "Retreat Centers",
+        "Healthcare & Wellness Brands"
+      ]
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "intro": "Vietnam Wellness Retreat is a pioneer in Wellness Destination Development in Vietnam, partnering with investors, resorts and businesses to build world-class wellness destinations.",
+    "visionHeading": "Vision",
+    "vision": "To become the leading partner in developing the Wellness Destination ecosystem in Vietnam and Southeast Asia.",
+    "missionHeading": "Mission",
+    "mission": "To create spaces that help people live healthier, happier lives and connect more deeply with themselves.",
+    "founderHeading": "Founder",
+    "founderIntro": "With deep experience in Wellness destination consulting, Nguyen Thi Thu Trang partners with investors from early concept positioning through to successful operation.",
+    "philosophyHeading": "Development Philosophy",
+    "servedHeading": "We Partner With",
+    "served": [
+      "Resort & Hotel Investors",
+      "Wellness Resorts",
+      "Boutique Resorts",
+      "Eco Resorts",
+      "Spa & Healing Centers",
+      "Retreat Centers",
+      "Healthcare & Wellness Brands"
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "intro": "From positioning to operation, we offer end-to-end advisory for every stage of a Wellness destination's development.",
+    "list": [
+      {
+        "title": "Luxury Wellness Resort Development",
+        "desc": "Developing luxury Wellness resorts from masterplanning through to operational detail."
+      },
+      {
+        "title": "Wellness Destination Consulting",
+        "desc": "Strategic advisory on positioning and developing a Wellness destination for its target market."
+      },
+      {
+        "title": "Wellness & Spa Concept Design",
+        "desc": "Designing spa concepts and wellbeing spaces with a distinct identity."
+      },
+      {
+        "title": "Resort & Hospitality Consulting",
+        "desc": "Advising on resort operating models and international hospitality standards."
+      },
+      {
+        "title": "Wellness Program Development",
+        "desc": "Building therapy, nutrition and mindfulness programs for guests."
+      },
+      {
+        "title": "Healing Retreat Design",
+        "desc": "Designing healing retreat experiences rooted in nature and local culture."
+      },
+      {
+        "title": "Leadership & Wellness Coaching",
+        "desc": "Leadership training and wellbeing coaching for operating teams."
+      },
+      {
+        "title": "Training & Retreat Experiences",
+        "desc": "Organizing in-depth training programs and retreat experiences."
+      }
+    ],
+    "processHeading": "Advisory Process",
+    "process": [
+      {
+        "title": "Project Positioning",
+        "desc": "Defining the project's identity"
+      },
+      {
+        "title": "Wellness Concept Development",
+        "desc": "Developing the Wellness concept"
+      },
+      {
+        "title": "Experience Design",
+        "desc": "Designing guest experiences"
+      },
+      {
+        "title": "Business Model",
+        "desc": "Building the business model"
+      },
+      {
+        "title": "Hospitality Consulting",
+        "desc": "Advising on hospitality operations"
+      },
+      {
+        "title": "Development Strategy",
+        "desc": "Shaping long-term direction"
+      }
+    ],
+    "faqHeading": "Frequently Asked Questions",
+    "faq": [
+      {
+        "q": "Does Vietnam Wellness Retreat advise on early-stage projects?",
+        "a": "Yes. We partner from initial concept positioning and market research through to operation."
+      },
+      {
+        "q": "Does the service include architectural design?",
+        "a": "We focus on strategy, Wellness concept and experience; for architecture, we collaborate with specialist design partners."
+      },
+      {
+        "q": "Where does Vietnam Wellness Retreat operate?",
+        "a": "We are based in Hanoi and partner with projects across Vietnam."
+      }
+    ]
+  },
+  "wellnessTourismPage": {
+    "title": "Wellness Tourism — A Multi-Trillion Dollar Travel Trend",
+    "intro": "Travel is changing. Today's travelers are looking for more than a place to rest — they want to return home as a healthier, more balanced version of themselves. That is why Wellness Tourism has become one of the fastest-growing segments in global travel.",
+    "pillarsHeading": "Six Experience Pillars",
+    "pillars": [
+      "Pristine Nature",
+      "Yoga & Meditation",
+      "Healthcare & Therapy",
+      "Scientific Nutrition",
+      "Outdoor Activity",
+      "Mental Wellbeing"
+    ],
+    "valueHeading": "When Developed the Right Way, Wellness Creates Real Value",
+    "value": [
+      "Elevates resort brand value",
+      "Attracts premium guest segments",
+      "Extends average length of stay",
+      "Grows revenue from Wellness services",
+      "Drives sustainable tourism development"
+    ],
+    "advantageHeading": "Vietnam — Potential to Become a Leading Wellness Destination in Asia",
+    "advantage": [
+      "Long coastline",
+      "Majestic mountains and forests",
+      "Natural hot springs",
+      "Rich source of medicinal herbs",
+      "Cultural heritage of traditional healthcare"
+    ],
+    "closing": "At Vietnam Wellness Retreat, we partner with investors and businesses to build Wellness Destination models of international standard, while honoring Vietnam's own identity.",
+    "definitionHeading": "What Is a Wellness Retreat?",
+    "definition": "A Wellness Retreat combines luxury hospitality, holistic healthcare, and experiences that nourish the body, mind and spirit.",
+    "definitionItems": [
+      {
+        "title": "Mindful Movement",
+        "desc": "Yoga & Meditation"
+      },
+      {
+        "title": "Holistic Healing",
+        "desc": "Spa & Therapy"
+      },
+      {
+        "title": "Nourishing Cuisine",
+        "desc": "Healthy Nutrition"
+      },
+      {
+        "title": "Nature Immersion",
+        "desc": "Activities in Nature"
+      },
+      {
+        "title": "Personal Growth",
+        "desc": "Coaching & Self-Development"
+      },
+      {
+        "title": "Luxury Accommodation",
+        "desc": "Refined Hospitality"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "We'd love to hear about your project. Reach us directly through any of the channels below.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "zaloLabel": "Zalo",
+    "addressLabel": "Operating Address",
+    "facebookLabel": "Facebook"
+  }
+}

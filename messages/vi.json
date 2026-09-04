@@ -1,0 +1,286 @@
+{
+  "nav": {
+    "about": "Về chúng tôi",
+    "services": "Dịch vụ",
+    "wellnessTourism": "Wellness Tourism",
+    "contact": "Liên hệ",
+    "cta": "Liên hệ tư vấn"
+  },
+  "footer": {
+    "description": "Đơn vị tư vấn & phát triển điểm đến Wellness tại Việt Nam.",
+    "quickLinks": "Liên kết nhanh",
+    "contactTitle": "Liên hệ",
+    "followTitle": "Kết nối với chúng tôi",
+    "rights": "Bảo lưu mọi quyền."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Wellness Destination Development & Advisory",
+      "cta": "Liên hệ tư vấn dự án"
+    },
+    "story": {
+      "heading": "Câu chuyện của chúng tôi",
+      "body": "Vietnam Wellness Retreat ra đời từ một câu hỏi giản dị: điều gì khiến một điểm đến thực sự chữa lành? Chúng tôi tin câu trả lời không nằm ở tiện nghi, mà ở cách một không gian được tư duy từ tầm nhìn, được nuôi dưỡng bằng chiến lược, và được kể lại bằng trải nghiệm. Từ đó, chúng tôi đồng hành cùng các chủ đầu tư và đối tác kiến tạo những điểm đến Wellness bền vững, mang lại giá trị lâu dài cho con người, cộng đồng và thiên nhiên."
+    },
+    "pillars": {
+      "heading": "Ba trụ cột đồng hành",
+      "items": [
+        {
+          "title": "Retreat Design & Development",
+          "desc": "Định hình ý tưởng, quy hoạch và thiết kế cho một điểm đến Wellness trọn vẹn ngay từ những bước đầu tiên.",
+          "image": "yoga-karst-mountains.jpg",
+          "link": "/dich-vu"
+        },
+        {
+          "title": "Wellness Program Development",
+          "desc": "Xây dựng chương trình chăm sóc sức khỏe toàn diện, kết hợp trị liệu, dinh dưỡng và thực hành chánh niệm.",
+          "image": "massage-singing-bowls.jpg",
+          "link": "/dich-vu"
+        },
+        {
+          "title": "Hospitality & Business Consulting",
+          "desc": "Tư vấn mô hình vận hành, chiến lược kinh doanh và trải nghiệm hospitality đẳng cấp quốc tế.",
+          "image": "coaching-session.jpg",
+          "link": "/dich-vu"
+        }
+      ],
+      "exploreLabel": "Khám phá"
+    },
+    "philosophy": {
+      "heading": "Triết lý Wellness",
+      "quoteEn": "Vision defines the destination. Strategy creates the legacy.",
+      "quoteVi": "Tầm nhìn định hình điểm đến. Chiến lược kiến tạo di sản.",
+      "body": "Chúng tôi nhìn Wellness không phải là một hạng mục trong dự án, mà là một chiến lược phát triển — nơi con người, thiên nhiên, văn hóa và trải nghiệm kết nối thành một hệ giá trị thống nhất. Trước khi nói đến thiết kế, chúng tôi nói về tầm nhìn; trước khi nói đến vận hành, chúng tôi nói về chiến lược; trước khi nói đến thành công, chúng tôi nói về di sản.",
+      "pillarsHeading": "6 trụ cột tư vấn",
+      "pillars": [
+        {
+          "title": "Project Positioning",
+          "desc": "Định vị dự án"
+        },
+        {
+          "title": "Wellness Concept Development",
+          "desc": "Phát triển concept Wellness"
+        },
+        {
+          "title": "Experience Design",
+          "desc": "Thiết kế trải nghiệm"
+        },
+        {
+          "title": "Business Model",
+          "desc": "Xây dựng mô hình kinh doanh"
+        },
+        {
+          "title": "Hospitality Consulting",
+          "desc": "Tư vấn nghỉ dưỡng & hospitality"
+        },
+        {
+          "title": "Development Strategy",
+          "desc": "Định hướng phát triển dài hạn"
+        }
+      ]
+    },
+    "wellnessTourism": {
+      "heading": "Wellness Tourism — Xu hướng toàn cầu",
+      "body": "Du lịch đang thay đổi. Ngày nay, du khách không chỉ tìm một nơi để nghỉ ngơi, mà mong muốn trở về với phiên bản khỏe mạnh và cân bằng hơn của chính mình. Đó là lý do Wellness Tourism trở thành một trong những phân khúc phát triển nhanh nhất của ngành du lịch toàn cầu.",
+      "pillars": [
+        "Thiên nhiên nguyên bản",
+        "Yoga & Thiền",
+        "Chăm sóc sức khỏe & trị liệu",
+        "Dinh dưỡng khoa học",
+        "Hoạt động vận động ngoài trời",
+        "Chăm sóc sức khỏe tinh thần"
+      ],
+      "readMore": "Tìm hiểu thêm",
+      "link": "/wellness-tourism"
+    },
+    "founder": {
+      "heading": "Người kiến tạo",
+      "quote": "Creating destinations that inspire people and create lasting value."
+    },
+    "ctaBand": {
+      "heading": "Cùng kiến tạo điểm đến Wellness tiếp theo của bạn",
+      "body": "Từ ý tưởng ban đầu đến một điểm đến hoàn chỉnh — chúng tôi đồng hành cùng bạn trong từng bước.",
+      "cta": "Liên hệ ngay"
+    },
+    "audience": {
+      "heading": "Đối tác & đối tượng đồng hành",
+      "items": [
+        "Chủ đầu tư Resort & Hotel",
+        "Wellness Resort",
+        "Boutique Resort",
+        "Eco Resort",
+        "Spa & Healing Center",
+        "Retreat Center",
+        "Healthcare & Wellness Brands"
+      ]
+    }
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "intro": "Vietnam Wellness Retreat là đơn vị tiên phong trong lĩnh vực Wellness Destination Development tại Việt Nam, đồng hành cùng các chủ đầu tư, khu nghỉ dưỡng và doanh nghiệp kiến tạo những điểm đến chăm sóc sức khỏe mang đẳng cấp quốc tế.",
+    "visionHeading": "Tầm nhìn",
+    "vision": "Trở thành đối tác hàng đầu trong việc phát triển hệ sinh thái Wellness Destination tại Việt Nam và Đông Nam Á.",
+    "missionHeading": "Sứ mệnh",
+    "mission": "Kiến tạo những không gian giúp con người sống khỏe hơn, hạnh phúc hơn và kết nối sâu sắc hơn với chính mình.",
+    "founderHeading": "Người sáng lập",
+    "founderIntro": "Với kinh nghiệm tư vấn phát triển điểm đến Wellness, Nguyễn Thị Thu Trang đồng hành cùng các chủ đầu tư từ giai đoạn định vị ý tưởng đến khi vận hành thành công.",
+    "philosophyHeading": "Triết lý phát triển",
+    "servedHeading": "Chúng tôi đồng hành cùng",
+    "served": [
+      "Chủ đầu tư Resort & Hotel",
+      "Wellness Resort",
+      "Boutique Resort",
+      "Eco Resort",
+      "Spa & Healing Center",
+      "Retreat Center",
+      "Healthcare & Wellness Brands"
+    ]
+  },
+  "services": {
+    "title": "Dịch vụ",
+    "intro": "Từ định vị dự án đến vận hành, chúng tôi cung cấp giải pháp tư vấn toàn diện cho từng chặng phát triển của một điểm đến Wellness.",
+    "list": [
+      {
+        "title": "Luxury Wellness Resort Development",
+        "desc": "Phát triển khu nghỉ dưỡng Wellness cao cấp từ quy hoạch tổng thể đến chi tiết vận hành."
+      },
+      {
+        "title": "Wellness Destination Consulting",
+        "desc": "Tư vấn chiến lược định vị và phát triển điểm đến Wellness phù hợp với thị trường mục tiêu."
+      },
+      {
+        "title": "Wellness & Spa Concept Design",
+        "desc": "Thiết kế concept spa và không gian chăm sóc sức khỏe mang bản sắc riêng."
+      },
+      {
+        "title": "Resort & Hospitality Consulting",
+        "desc": "Tư vấn mô hình vận hành resort và tiêu chuẩn hospitality quốc tế."
+      },
+      {
+        "title": "Wellness Program Development",
+        "desc": "Xây dựng chương trình trị liệu, dinh dưỡng và thực hành chánh niệm cho khách lưu trú."
+      },
+      {
+        "title": "Healing Retreat Design",
+        "desc": "Thiết kế trải nghiệm retreat chữa lành gắn với thiên nhiên và văn hóa bản địa."
+      },
+      {
+        "title": "Leadership & Wellness Coaching",
+        "desc": "Đào tạo lãnh đạo và huấn luyện wellbeing cho đội ngũ vận hành."
+      },
+      {
+        "title": "Training & Retreat Experiences",
+        "desc": "Tổ chức chương trình đào tạo và trải nghiệm retreat chuyên sâu."
+      }
+    ],
+    "processHeading": "Quy trình tư vấn",
+    "process": [
+      {
+        "title": "Project Positioning",
+        "desc": "Định vị dự án"
+      },
+      {
+        "title": "Wellness Concept Development",
+        "desc": "Phát triển concept Wellness"
+      },
+      {
+        "title": "Experience Design",
+        "desc": "Thiết kế trải nghiệm"
+      },
+      {
+        "title": "Business Model",
+        "desc": "Xây dựng mô hình kinh doanh"
+      },
+      {
+        "title": "Hospitality Consulting",
+        "desc": "Tư vấn nghỉ dưỡng & hospitality"
+      },
+      {
+        "title": "Development Strategy",
+        "desc": "Định hướng phát triển dài hạn"
+      }
+    ],
+    "faqHeading": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "q": "Vietnam Wellness Retreat có nhận tư vấn cho dự án ở giai đoạn ý tưởng ban đầu không?",
+        "a": "Có. Chúng tôi đồng hành từ bước định vị ý tưởng, nghiên cứu thị trường đến khi dự án đi vào vận hành."
+      },
+      {
+        "q": "Dịch vụ có bao gồm thiết kế kiến trúc không?",
+        "a": "Chúng tôi tập trung vào chiến lược, concept Wellness và trải nghiệm; với hạng mục kiến trúc, chúng tôi phối hợp cùng các đối tác thiết kế chuyên môn."
+      },
+      {
+        "q": "Vietnam Wellness Retreat hoạt động ở những khu vực nào?",
+        "a": "Chúng tôi có trụ sở tại Hà Nội và đồng hành cùng các dự án trên toàn Việt Nam."
+      }
+    ]
+  },
+  "wellnessTourismPage": {
+    "title": "Wellness Tourism — Xu hướng du lịch trị giá hàng nghìn tỷ USD",
+    "intro": "Du lịch đang thay đổi. Ngày nay, du khách không chỉ tìm kiếm một nơi để nghỉ ngơi, mà còn mong muốn trở về với phiên bản khỏe mạnh và cân bằng hơn của chính mình. Đó là lý do Wellness Tourism trở thành một trong những phân khúc phát triển nhanh nhất của ngành du lịch toàn cầu.",
+    "pillarsHeading": "Sáu trụ cột trải nghiệm",
+    "pillars": [
+      "Thiên nhiên nguyên bản",
+      "Yoga & Thiền",
+      "Chăm sóc sức khỏe & trị liệu",
+      "Dinh dưỡng khoa học",
+      "Hoạt động vận động ngoài trời",
+      "Chăm sóc sức khỏe tinh thần"
+    ],
+    "valueHeading": "Khi được phát triển đúng cách, Wellness mang lại nhiều giá trị",
+    "value": [
+      "Gia tăng giá trị thương hiệu khu nghỉ dưỡng",
+      "Thu hút phân khúc khách hàng cao cấp",
+      "Tăng thời gian lưu trú",
+      "Gia tăng doanh thu từ các dịch vụ Wellness",
+      "Phát triển du lịch bền vững"
+    ],
+    "advantageHeading": "Việt Nam — Tiềm năng trở thành điểm đến Wellness hàng đầu châu Á",
+    "advantage": [
+      "Đường bờ biển dài",
+      "Núi rừng hùng vĩ",
+      "Suối khoáng nóng",
+      "Nguồn dược liệu phong phú",
+      "Giá trị văn hóa & truyền thống chăm sóc sức khỏe"
+    ],
+    "closing": "Tại Vietnam Wellness Retreat, chúng tôi đồng hành cùng các chủ đầu tư và doanh nghiệp trong việc kiến tạo những mô hình Wellness Destination mang đẳng cấp quốc tế, đồng thời tôn vinh bản sắc Việt Nam.",
+    "definitionHeading": "Wellness Retreat là gì?",
+    "definition": "Wellness Retreat là sự kết hợp giữa nghỉ dưỡng cao cấp, chăm sóc sức khỏe toàn diện và trải nghiệm nuôi dưỡng thể chất, tinh thần, cảm xúc.",
+    "definitionItems": [
+      {
+        "title": "Mindful Movement",
+        "desc": "Yoga & Thiền"
+      },
+      {
+        "title": "Holistic Healing",
+        "desc": "Spa & Trị liệu"
+      },
+      {
+        "title": "Nourishing Cuisine",
+        "desc": "Dinh dưỡng lành mạnh"
+      },
+      {
+        "title": "Nature Immersion",
+        "desc": "Hoạt động giữa thiên nhiên"
+      },
+      {
+        "title": "Personal Growth",
+        "desc": "Coaching & phát triển bản thân"
+      },
+      {
+        "title": "Luxury Accommodation",
+        "desc": "Nghỉ dưỡng sang trọng"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "intro": "Chúng tôi sẵn sàng lắng nghe ý tưởng dự án của bạn. Liên hệ trực tiếp qua các kênh dưới đây.",
+    "phoneLabel": "Điện thoại",
+    "emailLabel": "Email",
+    "zaloLabel": "Zalo",
+    "addressLabel": "Địa chỉ hoạt động",
+    "facebookLabel": "Facebook"
+  }
+}
