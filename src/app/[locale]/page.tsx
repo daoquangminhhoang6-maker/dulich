@@ -45,7 +45,7 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
           <p className="text-xs uppercase tracking-widest2 text-gold-light">
             {dict.home.hero.eyebrow}
           </p>
-          <h1 className="mt-6 font-heading text-4xl leading-tight sm:text-5xl lg:text-6xl">
+          <h1 className="mt-6 font-heading text-4xl leading-tight text-cream drop-shadow-[0_2px_12px_rgba(0,0,0,0.55)] sm:text-5xl lg:text-6xl">
             {siteConfig.name}
           </h1>
           <p className="mt-6 font-script text-2xl text-gold-light sm:text-3xl">
