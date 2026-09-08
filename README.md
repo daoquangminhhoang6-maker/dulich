@@ -11,7 +11,7 @@ npm run dev
 
 Mở http://localhost:3000 — trang chủ sẽ tự chuyển hướng sang `/vi`.
 
-Build production (sẽ tự sinh sitemap.xml + robots.txt qua `next-sitemap`):
+Build production (sẽ tự sinh sitemap.xml + robots.txt bằng tính năng có sẵn của Next.js):
 
 ```bash
 npm run build
@@ -72,11 +72,11 @@ Thông tin liên hệ (điện thoại, email, Zalo, Facebook, địa chỉ) kh�
 
 ## 5. Domain & SEO
 
-- **Domain chính thức của công ty chưa được chốt tại thời điểm dựng site.** Toàn bộ canonical URL, Open Graph URL và `next-sitemap.config.js` hiện dùng biến môi trường `SITE_URL` (xem `.env.example`), mặc định là một domain placeholder.
+- **Domain chính thức đã có: `vietnamwellnessretreat.com.vn`** — đã cập nhật trực tiếp trong code (`src/lib/site-config.ts`). Biến môi trường `SITE_URL` trên Vercel là tùy chọn (nếu có, sẽ ghi đè giá trị mặc định trong code) — nếu không chắc, xóa hẳn biến này đi cho đơn giản, vì code đã có domain đúng làm mặc định rồi.
 - Khi có domain thật: tạo file `.env.local` với `SITE_URL=https://ten-mien-that-cua-ban.com` (không có dấu `/` cuối), hoặc khai báo biến môi trường tương ứng trên Vercel.
 - Trang Liên hệ **không có form nhập liệu** — chỉ hiển thị 4 kênh liên hệ trực tiếp dạng icon thương hiệu: gọi điện (tel:), Facebook, Gmail (mở thẳng trang soạn thư trên mail.google.com), Zalo (mở chat zalo.me với cùng số điện thoại). Footer cũng dùng lại đúng 4 icon này cho đồng bộ.
 - JSON-LD đã tích hợp: `ProfessionalService` (trang chủ, mọi trang), `Person` (trang Về chúng tôi), `Service` + `FAQPage` (trang Dịch vụ), `Article` (trang Wellness Tourism).
-- `next-sitemap` tự sinh `sitemap.xml` + `robots.txt` sau `npm run build`.
+- `sitemap.xml` và `robots.txt` được Next.js tự sinh động (qua `src/app/sitemap.ts` và `src/app/robots.ts`) — không phụ thuộc gói ngoài, không cần chạy build riêng, luôn đúng domain lấy từ `siteConfig.url`.
 - **Trang Dự án đã được gỡ bỏ hoàn toàn** (không còn route `/du-an`, `/projects`, không còn trong menu/footer) theo yêu cầu mới nhất.
 
 ## 6. Việc còn cần bổ sung (chưa có trong tài liệu gốc)
