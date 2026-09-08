@@ -57,6 +57,9 @@ export default function ContactPage({ locale }: { locale: Locale }) {
         <div className="container-custom relative z-10 text-cream">
           <h1 className="text-cream">{t.title}</h1>
           <p className="mt-4 max-w-xl text-sm text-cream/85 sm:text-base">{t.intro}</p>
+          <p className="mt-4 text-sm tracking-wide text-gold-light">
+            {siteConfig.founder.name} — {siteConfig.founder.title}
+          </p>
         </div>
       </section>
 

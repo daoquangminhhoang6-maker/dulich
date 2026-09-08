@@ -78,7 +78,9 @@ export default function Footer({
           <h3 className="font-heading text-sm tracking-widest2 text-gold-light">
             {dict.footer.followTitle}
           </h3>
-          <p className="mt-4 text-sm text-cream/60">{siteConfig.contact.address}</p>
+          <p className="mt-4 text-sm text-gold-light">{siteConfig.founder.name}</p>
+          <p className="text-xs text-cream/50">{siteConfig.founder.title}</p>
+          <p className="mt-3 text-sm text-cream/60">{siteConfig.contact.address}</p>
         </div>
       </div>
 

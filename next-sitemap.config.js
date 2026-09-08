@@ -1,12 +1,11 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  // TODO: cập nhật khi có domain chính thức
-  siteUrl: process.env.SITE_URL || "https://vietnamwellnessretreat.example",
+  siteUrl: process.env.SITE_URL || "https://vietnamwellnessretreat.com.vn",
   generateRobotsTxt: true,
   exclude: ["/api/*"],
   alternateRefs: [
     {
-      href: process.env.SITE_URL || "https://vietnamwellnessretreat.example",
+      href: process.env.SITE_URL || "https://vietnamwellnessretreat.com.vn",
       hreflang: "vi",
     },
   ],

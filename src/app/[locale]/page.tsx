@@ -172,14 +172,18 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
       <section className="section-padding bg-cream-dark">
         <div className="container-custom max-w-2xl text-center">
           <FadeIn>
-            <span className="mx-auto flex h-20 w-20 items-center justify-center rounded-full border border-gold/50 font-heading text-2xl text-forest">
-              NTT
+            <span className="mx-auto flex h-20 w-20 items-center justify-center overflow-hidden rounded-full border border-gold/50">
+              <Image
+                src="/images/logo-mark-circle.jpg"
+                alt="Vietnam Wellness Retreat"
+                width={80}
+                height={80}
+                className="h-full w-full object-cover"
+              />
             </span>
             <p className="mt-8 font-script text-2xl text-forest sm:text-3xl">
               &ldquo;{dict.home.founder.quote}&rdquo;
             </p>
-            <p className="mt-6 font-heading text-lg text-forest">{siteConfig.founder.name}</p>
-            <p className="text-sm tracking-wide text-ink/60">{siteConfig.founder.title}</p>
           </FadeIn>
         </div>
       </section>

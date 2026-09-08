@@ -2,8 +2,7 @@
 // Cập nhật domain thật khi công ty chốt tên miền chính thức.
 export const siteConfig = {
   name: "Vietnam Wellness Retreat",
-  // TODO: thay bằng domain chính thức khi có
-  url: process.env.SITE_URL || "https://vietnamwellnessretreat.example",
+  url: process.env.SITE_URL || "https://vietnamwellnessretreat.com.vn",
   tagline: "Transform Spaces. Elevate Wellbeing. Inspire Lives.",
   taglineVi: "Kiến tạo không gian. Nâng tầm sự khỏe mạnh. Truyền cảm hứng sống.",
   subSlogan: "Where Wellness Meets Destination Excellence.",
