@@ -172,15 +172,25 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
       <section className="section-padding bg-cream-dark">
         <div className="container-custom max-w-2xl text-center">
           <FadeIn>
-            <span className="mx-auto flex h-20 w-20 items-center justify-center overflow-hidden rounded-full border border-gold/50">
-              <Image
-                src="/images/logo-mark-circle.jpg"
-                alt="Vietnam Wellness Retreat"
-                width={80}
-                height={80}
-                className="h-full w-full object-cover"
-              />
-            </span>
+            <div className="mx-auto flex items-center justify-center gap-6">
+  <span className="flex h-20 w-20 flex-shrink-0 items-center justify-center overflow-hidden rounded-full border border-gold/50">
+    <Image
+      src="/images/logo-mark-circle.jpg"
+      alt="Vietnam Wellness Retreat"
+      width={80}
+      height={80}
+      className="h-full w-full object-cover"
+    />
+  </span>
+  <span className="h-10 w-px bg-gold/30" />
+  <Image
+    src="/images/zsopo-logo.png"
+    alt="ZSOPO"
+    width={140}
+    height={64}
+    className="h-10 w-auto object-contain sm:h-12"
+  />
+</div>
             <p className="mt-8 font-script text-2xl text-forest sm:text-3xl">
               &ldquo;{dict.home.founder.quote}&rdquo;
             </p>
